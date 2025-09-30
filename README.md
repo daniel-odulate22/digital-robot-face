@@ -2,6 +2,7 @@
 
 Elzi Face is the **visual personality layer** for Elzi — a Jarvis-inspired AI companion.  
 It’s an animated face built in Python with `pygame` that reacts to mic input, keyboard toggles, and interactions in real-time.
+<img width="988" height="499" alt="robot-face" src="https://github.com/user-attachments/assets/4918cf18-9f9a-4cb4-adab-68695058c16b" />
 
 ---
 
